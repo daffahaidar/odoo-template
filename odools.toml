@@ -1,0 +1,5 @@
+# Konfigurasi ekstensi Odoo (OdooLS).
+[[config]]
+name = "default"
+odoo_path = "/Volumes/SSD/Japfa/odoo18-stubs"
+addons_paths = ["${workspaceFolder}/custom"]

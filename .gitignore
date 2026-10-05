@@ -1,0 +1,4 @@
+filestore/
+log/
+*.pyc
+__pycache__/

@@ -1,0 +1,6 @@
+# Source Odoo 18 (salinan dari image Docker) supaya `from odoo import ...` ketemu.
+search-path = ["/Volumes/SSD/Japfa/odoo18-stubs"]
+# Preset "default" memunculkan ratusan false positive karena Pyrefly tidak paham `_inherit` Odoo.
+preset = "basic"
+# Library ini ada di container Docker, tapi tidak terinstall di Python lokal.
+ignore-missing-imports = ["requests"]

@@ -1,0 +1,113 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * product_barcodelookup
+#
+# Translators:
+# Tiffany Chang, 2025
+#
+# Weblate <noreply-mt-weblate@weblate.org>, 2026.
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-29 18:48+0000\n"
+"PO-Revision-Date: 2026-09-08 17:11+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"Language-Team: Persian <https://translate.odoo.com/projects/odoo-18/"
+"product_barcodelookup/fa/>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2026.8.1\n"
+
+#. module: product_barcodelookup
+#: model_terms:ir.ui.view,arch_db:product_barcodelookup.res_config_settings_view_form
+msgid "API Key:"
+msgstr "کلید API:"
+
+#. module: product_barcodelookup
+#: model:ir.model.fields,field_description:product_barcodelookup.field_res_config_settings__barcodelookup_api_key
+msgid "API key"
+msgstr "کلید API"
+
+#. module: product_barcodelookup
+#: model_terms:ir.ui.view,arch_db:product_barcodelookup.res_config_settings_view_form
+msgid "Barcode Database"
+msgstr "پایگاه داده بارکد"
+
+#. module: product_barcodelookup
+#: model:ir.model.fields,help:product_barcodelookup.field_res_config_settings__barcodelookup_api_key
+msgid "Barcode Lookup API Key for create product from barcode."
+msgstr "کلید API جستجوی بارکد برای ایجاد محصول از بارکد."
+
+#. module: product_barcodelookup
+#: model:ir.model,name:product_barcodelookup.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: product_barcodelookup
+#: model_terms:ir.ui.view,arch_db:product_barcodelookup.res_config_settings_view_form
+msgid "Create products by scanning using"
+msgstr "ایجاد محصول از طریق اسکن با استفاده از"
+
+#. module: product_barcodelookup
+#: model:ir.model,name:product_barcodelookup.model_product_template
+msgid "Product"
+msgstr "محصول"
+
+#. module: product_barcodelookup
+#: model:ir.model,name:product_barcodelookup.model_product_product
+msgid "Product Variant"
+msgstr "گونه محصول"
+
+#. module: product_barcodelookup
+#: model:product.attribute,name:product_barcodelookup.product_attribute_lookup_8
+msgid "age group"
+msgstr "گروه سنی"
+
+#. module: product_barcodelookup
+#: model_terms:ir.ui.view,arch_db:product_barcodelookup.res_config_settings_view_form
+msgid "barcodelookup.com"
+msgstr ""
+
+#. module: product_barcodelookup
+#: model:product.attribute,name:product_barcodelookup.product_attribute_lookup_6
+msgid "brand"
+msgstr "برند"
+
+#. module: product_barcodelookup
+#: model:product.attribute,name:product_barcodelookup.product_attribute_lookup_1
+msgid "color"
+msgstr "رنگ"
+
+#. module: product_barcodelookup
+#: model_terms:ir.ui.view,arch_db:product_barcodelookup.res_config_settings_view_form
+msgid "e.g. d7vctmiv2rwgenebha8bxq7irooudn"
+msgstr "مثال: d7vctmiv2rwgenebha8bxq7irooudn"
+
+#. module: product_barcodelookup
+#: model:product.attribute,name:product_barcodelookup.product_attribute_lookup_2
+msgid "gender"
+msgstr "جنسیت"
+
+#. module: product_barcodelookup
+#: model:product.attribute,name:product_barcodelookup.product_attribute_lookup_5
+msgid "manufacturer"
+msgstr "تولیدکننده"
+
+#. module: product_barcodelookup
+#: model:product.attribute,name:product_barcodelookup.product_attribute_lookup_3
+msgid "material"
+msgstr "جنس"
+
+#. module: product_barcodelookup
+#: model:product.attribute,name:product_barcodelookup.product_attribute_lookup_4
+msgid "pattern"
+msgstr "طرح"
+
+#. module: product_barcodelookup
+#: model:product.attribute,name:product_barcodelookup.product_attribute_lookup_7
+msgid "size"
+msgstr "اندازه"
