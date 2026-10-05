@@ -1,4 +1,5 @@
 filestore/
+enterprise/
 log/
 *.pyc
 __pycache__/
